@@ -1,0 +1,16 @@
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Virtual Environment
+.venv/
+venv/
+
+# Ignore specific directories
+COVID-QU-Ex/
+
+# Ignore model files and large datasets
+models/
